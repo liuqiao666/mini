@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><!--IE 运行最新的渲染模式-->
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!--视图适应设备分辨率，缩放比例为1，也就是不缩放-->
+    <title>购物车页面</title>   
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet"> 
+    <link href="css/carts.css" rel="stylesheet">
+    <!-- 以下两个插件用于在IE8以及以下版本浏览器支持HTML5元素和媒体查询，如果不需要用可以移除 -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+        
+<div class="container" style="margin-top: 25px;">
+  <div class="cartBox">
+    <div class="order_lists">
+      <div class="row">
+		<div class="col-4" style="box-shadow: 0px 0px 2px #888888;"><img src="img/MINI-STYLE1_02.gif" class="img-fluid"></div>
+        <div class="col-6" style="margin-left: 25px;">
+	      <div class="row">
+	      	<div class="col-6">
+	      	<p><b>MINI行李包</b></p>
+	      	</div>
+	      </div>
+	     <div class="row" style="margin-top: 50px;">
+	     	<div class="col-3">
+	         <div class="list_price">
+	            <h6 class="price">￥320</h6>
+	         </div>
+	        </div>
+           <div class="col-6" align="center">
+	        <div class="amount_box">
+	        <a href="javascript:;" class="reduce reSty">-</a>
+	        <input value="1" class="sum" style="width: 40px;border: solid;"></input>
+	        <a href="javascript:;" class="plus">+</a>
+	       </div>
+	       </div>
+      </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+
+<div class="container" style="margin-top: 50px;">
+  <div class="row">
+   <table class="table">
+    <thead class="thead-light">
+      <tr>
+        <th>姓名：
+        <input style="background-color: #e9ecef;" type="text" name="" class="form-control"></th>
+      </tr>
+    </thead>
+  </div>
+  <div class="row">
+    <thead class="thead-light">
+      <tr>
+        <th>电话：
+        <input style="background-color: #e9ecef;" type="text" name="" class="form-control"></th>
+      </tr>
+    </thead>
+  </div>
+    <div class="row">
+    <thead class="thead-light">
+      <tr>
+        <th>身份证：
+        <input style="background-color: #e9ecef;" type="text" name="" class="form-control"></th>
+      </tr>
+      用于购买保险
+    </thead>
+    </table>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+   <div class="col-4">
+    <b><label><input checked="checked" type="radio" name="optradio">微信支付</label></b>
+   </div>
+   <div class="col-6">
+    <b><label><input type="radio" name="optradio"></label>积分支付</b>
+   </div>
+  </div>
+ </div>
+
+<div class="container"  style="margin-top: 100px;">
+  <div class="row">
+    <div class="calBtn" style="margin-left: 290px;border-bottom: solid;"><a href="#">立即支付</a></div>
+  </div>
+</div>
+        
+        <!-- 如果要使用Bootstrap的js插件，必须先调入jQuery -->
+        <script src="js/jquery.min.js"></script>
+        <script src="js/carts.js"></script>
+        <!-- 包括所有bootstrap的js插件或者可以根据需要使用的js插件调用　-->
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

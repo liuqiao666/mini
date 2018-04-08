@@ -1,0 +1,432 @@
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/jetProject/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/jetProject/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/jetProject/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/jetProject/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/jetProject/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (/Users/theadore/Documents/nodoWorkSpace/mini/index.js:13:7)
+      at dispatch (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:42:32)
+      at next (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-compose/index.js:43:18)
+      at send.then.done (/Users/theadore/Documents/nodoWorkSpace/mini/node_modules/koa-static/index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+
+
+  TypeError: ctx.render is not a function
+      at app.use.ctx (E:\mini\index.js:13:7)
+      at dispatch (E:\mini\node_modules\koa-compose\index.js:42:32)
+      at next (E:\mini\node_modules\koa-compose\index.js:43:18)
+      at send.then.done (E:\mini\node_modules\koa-static\index.js:43:20)
+      at <anonymous>
+

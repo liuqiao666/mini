@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><!--IE 运行最新的渲染模式-->
+        <meta name="viewport" content="width=device-width, initial-scale=1"><!--视图适应设备分辨率，缩放比例为1，也就是不缩放-->
+        <title>mini</title>   
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">   
+        <!--样式表开始-->
+		<link type="text/css" rel="stylesheet" href="css/style.css"/>
+		<!--样式表结束-->
+		<script type="text/javascript" src="js/jquery-1.11.0.min.js"></script>
+        <!-- 以下两个插件用于在IE8以及以下版本浏览器支持HTML5元素和媒体查询，如果不需要用可以移除 -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+    	
+<div class="container">
+	<div class="row">
+		<div class="col-12">
+			<div id="demo" class="carousel slide" data-ride="carousel">
+			<ul class="carousel-indicators">
+			    <li data-target="#demo" data-slide-to="0" class="active"></li>
+			    <li data-target="#demo" data-slide-to="1"></li>
+			    <li data-target="#demo" data-slide-to="2"></li>
+			</ul>
+  <!-- 轮播图片 -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="img/1.jpg" class="img-fluid">
+    </div>
+    
+    <div class="carousel-item">
+      <img src="img/2.jpg" class="img-fluid">
+    </div>   
+
+    <div class="carousel-item">
+      <img src="img/3.jpg" class="img-fluid">
+    </div>
+ </div>
+</div>
+
+<div class="container">
+	<div class="row">
+		<div class="col-6">
+		<img src="img/MINI-STYLE1_01.gif" class="img-fluid">
+		<div class="heart " id="like1" rel="like"><div class="likeCount" id="likeCount1">14</div></div>
+		</div>
+		<div class="col-6">
+		<h6 align="center">MINI style<p>让你的生活与众不同！</p></h6>
+		<img src="img/MINI-STYLE1_02.gif" class="img-fluid">
+		<div class="heart " id="like2" rel="like"><div class="likeCount" id="likeCount2">14</div></div>
+		</div>
+	</div>
+</div>
+ 
+<script>
+$(document).ready(function(){
+
+	$('body').on("click",'.heart',function(){
+		
+		var A=$(this).attr("id");
+		var B=A.split("like");
+		var messageID=B[1];
+		var C=parseInt($("#likeCount"+messageID).html());
+		$(this).css("background-position","")
+		var D=$(this).attr("rel");
+	   
+		if(D === 'like') {      
+			$("#likeCount"+messageID).html(C+1);
+			$(this).addClass("heartAnimation").attr("rel","unlike");
+		}
+		else{
+			$("#likeCount"+messageID).html(C-1);
+			$(this).removeClass("heartAnimation").attr("rel","like");
+			$(this).css("background-position","left");
+		}
+	});
+
+});
+</script>
+        <!-- 如果要使用Bootstrap的js插件，必须先调入jQuery -->
+        <script src="js/jquery.min.js"></script>
+        <!-- 包括所有bootstrap的js插件或者可以根据需要使用的js插件调用　-->
+        <script src="js/bootstrap.min.js"></script>
+    </body>
+</html>

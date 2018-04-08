@@ -1,0 +1,29 @@
+#main-nav {
+    text-align: center;
+    display: table;
+    width: 100%;
+}
+
+.status-item {
+    display: table-cell;
+    padding: 20px;
+    width: 32%;
+    border-top-right-radius: 35px; 
+	border-top-left-radius: 35px;
+	border-color: #000000;
+	border: solid;
+	background-color: #000000;
+}
+.sta{
+    display: table-cell;
+    padding: 20px;
+    width: 32%;
+    border-top-right-radius: 35px; 
+	border-top-left-radius: 35px;
+	border-color: #000000;
+	border: solid;
+	background-color: #ffffff;
+}
+a:visited{color: #ffffff;background-color: #000000;}
+a:active {color: #000000;background-color: #ffffff;} /* 被选择的链接 */
+
