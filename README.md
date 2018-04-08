@@ -1,3 +1,3 @@
-# MINI Project# mini
-# miniŒ¢–≈«∞∂À“≥√Ê
+# MINI Project
+# mini
 # vue.js
